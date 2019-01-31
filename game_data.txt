@@ -1,0 +1,6 @@
+/resources/bulba.png
+/resources/squirtle.png
+/resources/charm.png
+/resources/pika.png
+/resources/evee.png
+/resources/poke.png
